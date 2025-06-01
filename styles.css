@@ -30,7 +30,7 @@ header {
 }
 
 .logo-icon {
-  height: 60px;        /* increase height */
+  height: 90px;        /* increase height */
   width: auto;         /* auto keeps it proportional */
   vertical-align: middle;
   object-fit: contain;

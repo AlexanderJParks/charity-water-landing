@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Charity: Water</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="https://via.placeholder.com/40x40.png?text=Logo" alt="Charity Water Logo" class="logo" />
+      <h1 class="brand-name">CHARITY: WATER</h1>
+    </header>
+
+    <main class="content">
+      <section class="text-section">
+        <h2>Help Bring Clean Water to Communities in Need—One Step at a Time</h2>
+        <p>
+          We help underserved communities access clean, safe water through locally-led, sustainable water systems.
+          By partnering with local communities and using cutting-edge filtration technology, we ensure long-term access
+          to clean water, reduce reliance on external aid, and empower families to thrive.
+        </p>
+      </section>
+      <section class="image-section">
+        <img src="https://via.placeholder.com/300x350.png?text=Water+Image" alt="Woman with water containers" />
+      </section>
+    </main>
+
+    <footer>
+      <h2>GIVE CLEAN WATER TODAY</h2>
+    </footer>
+  </div>
+</body>
+</html>

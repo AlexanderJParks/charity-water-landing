@@ -70,3 +70,15 @@ footer {
   font-weight: bold;
   color: #ffffff;
 }
+.brand-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.logo-icon {
+  height: 40px;
+  width: auto;
+}

@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0077cc; /* Bright blue */
+  color: white;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.brand-name {
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.text-section {
+  max-width: 500px;
+  text-align: left;
+}
+
+.text-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.text-section p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.image-section img {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff;
+}
